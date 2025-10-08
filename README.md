@@ -1,35 +1,142 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
-<h1 align="center">Hi 👋, I'm Afnan</h1>
-<h3 align="center">I am passionate about developing,programminig, machine learning, data analytics and deep learning.</h3>
+<!--
+  GitHub Profile README for Afnan Sharif
+  Replace REPLACE_WITH_GITHUB_USERNAME with your actual GitHub username in the URLs below.
+-->
 
-<img align="middle" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ae3iqjj6xvii05mr83dbqw0j6kokiqul4m6ijt7l&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<!-- ===== Header / Hero ===== -->
+<h1 align="center">Hi 👋, I'm Afnan Sharif</h1>
+<h3 align="center">AI & ML Engineer • Applied AI • LLMs • Intelligent Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afnansharif&label=Profile%20views&color=0e75b6&style=flat" alt="afnansharif" /> </p>
+<div align="center">
+  <!-- Visitor count -->
+  <img src="https://komarev.com/ghpvc/?username=REPLACE_WITH_GITHUB_USERNAME&style=flat-square" alt="Visitor Count" />
+  <!-- Profile trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=REPLACE_WITH_GITHUB_USERNAME&theme=flat" alt="Trophies" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afnansharif" alt="afnansharif" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/i_m_afnan" target="blank"><img src="https://img.shields.io/twitter/follow/i_m_afnan?logo=twitter&style=for-the-badge" alt="i_m_afnan" /></a> </p>
-
-- 🔭 I’m currently working on **Machine Learning**
-
-- 🌱 I’m currently learning **SQL,react,flask and mongoDB**
-
-- 📫 How to reach me **afnansharifs@gmail.com**
-
-- ⚡ Fun fact **Fun and Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/i_m_afnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_m_afnan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/afnan-sharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afnan-sharif" height="30" width="40" /></a>
-<a href="https://discord.gg/afz#2205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="afz#2205" height="30" width="40" /></a>
+<!-- ===== Badges ===== -->
+<p align="center">
+  <img alt="Top Languages" src="https://img.shields.io/badge/Top%20Tech-Python%20%7C%20LLMs%20%7C%20RAG-blue?style=flat-square" />
+  <img alt="Role" src="https://img.shields.io/badge/Role-AI%20Engineer%20Intern-orange?style=flat-square" />
+  <img alt="Location" src="https://img.shields.io/badge/Islamabad-Pakistan-lightgrey?style=flat-square" />
+  <img alt="Email" src="https://img.shields.io/badge/Contact-afnansharifs%40gmail.com-red?style=flat-square" />
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Afnan%20Sharif-blue?style=flat-square&logo=linkedin" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afnansharif&show_icons=true&locale=en&layout=compact" alt="afnansharif" /></p>
+## 🔭 Quick headline
+**AI & ML Engineer** focused on building production-ready **LLM-powered systems, RAG pipelines, vector search, and scalable AI deployments**. I create intelligent applications (chatbots, geospatial AI, compliance automation) that solve real problems.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afnansharif&show_icons=true&locale=en" alt="afnansharif" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afnansharif&" alt="afnansharif" /></p>
+## 🧠 About Me
+I build **robust AI solutions** using LLM orchestration, vector search, and deterministic pipelines. I love combining strong engineering — clean APIs, observability, and CI/CD — with responsible GenAI design that minimizes hallucinations and scales in production.
+
+- 📍 Islamabad, Pakistan  
+- 🎓 BSc in Artificial Intelligence — COMSATS University Islamabad (2025)  
+- ⚙️ Always experimenting with LLMs, RAG, FastAPI, Docker, and Elastic/Vector search stacks.
+
+---
+
+## 🛠️ Core Skills (highlighted for recruiters & ATS)
+**Programming:** Python · SQL  
+**LLMs & GenAI:** LangChain · LlamaIndex · OpenAI (GPT-4/GPT-4o/GPT-5) · RAG pipelines · Vector Search (Pinecone · Qdrant · pgvector)  
+**Data & ML:** NLP · Embedding generation · Fine-tuning · Evaluation (RAGAS / TruLens)  
+**CV & Geospatial:** YOLOv8/YOLOv11 · Detectron2 · OpenCV · GDAL · GeoPandas  
+**Infra & Deploy:** FastAPI · Docker · CI/CD · AWS · Azure · DigitalOcean  
+**Data Stores:** PostgreSQL (pgvector) · MongoDB · Elasticsearch · Qdrant  
+**Voice & Agents:** Whisper · ElevenLabs · Biometric integrations (InsightFace)  
+**Soft Skills:** Problem solving · Critical thinking · Communication · Collaboration · Adaptability
+
+---
+
+## 💼 Experience (short)
+**Edgecio — AI/ML Developer** (Apr 2025–Present)  
+Built full-stack AI solutions, integrated models into production, and coordinated with product teams for deployable AI features.
+
+**Axum Forge — AI Developer** (Jun 2024–Mar 2025)  
+Developed RAG pipelines, vector search (pgvector/FAISS/Pinecone), and FastAPI deployments — cut deployment time and improved retrieval accuracy.
+
+**NIC — AI Intern** (May 2023–Aug 2023)  
+Built a YOLOv8-based Smart Parking Detection system and optimized real-time inference pipelines.
+
+---
+
+## 🚀 Featured Projects
+
+### GeoQuery AI — GenAI Chatbot for Geospatial & Industry Data
+**NestJS · OpenAI GPT-5 · Elasticsearch · LangChain · Qdrant · TypeScript · Docker** — *Jun 2025*  
+- Translates **natural-language map queries** into deterministic Elasticsearch filter JSON (no raw DSL hallucinations).  
+- Implements strong **intent/slot extraction**, clarifier gate, session memory, and slot fusion for multi-turn map queries.  
+- Returns natural-language summaries + structured `layer + filters` payloads for the frontend map UI.  
+- Observability, retry & fallback strategies, and slot memory reduced clarification loops and made the system production-ready.
+
+### Intelliscan — AI-Powered Code Plagiarism Detection
+**Next.js · FastAPI · TensorFlow · PyTorch · PostgreSQL · Docker** — *Jun 2024 – Jan 2025*  
+- 20k+ code dataset, AST-based embeddings, 90%+ accuracy, real-time checks with secure auth & role access.
+
+### Compliance Verification System
+**Azure Form Recognizer · OpenAI · LangChain · Qdrant · FastAPI · Docker** — *May 2025*  
+- OCR + LLM-based compliance matching, 85% reduction in manual verification time, 95% accuracy in automated checks.
+
+### SmartChat — AI Chatbot Platform
+**Next.js · OpenAI · LangChain · Pinecone · FastAPI** — *Mar 2024 – May 2024*  
+- RAG-powered chatbot deployed on serverless infra; inference optimization improved response times by 30%.
+
+> Want the code or demo? Visit my repos: `/Intelliscan`, `/GeoQuery-AI`, `/SmartChat` (replace with actual repo links)
+
+---
+
+## 📈 GitHub Stats & Activity
+> Replace `REPLACE_WITH_GITHUB_USERNAME` with your GitHub username in the URLs below.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true&hide=contribs" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=REPLACE_WITH_GITHUB_USERNAME&theme=radical" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REPLACE_WITH_GITHUB_USERNAME&theme=solarized_light" />
+</p>
+
+---
+
+## 🔭 Current Focus
+- Building **production-grade GenAI** features with deterministic execution and observability.  
+- Migrating RAG systems to **AWS + vector stores** and integrating robust session memory.  
+- Preparing deployable voice agents and HIPAA-compliant AI workflows.
+
+---
+
+## 🧩 Open Source & Contributions
+I contribute to projects related to **LLMs, vector search tooling, and geospatial AI pipelines**. I welcome collaboration — open issues or PRs are great ways to start!
+
+---
+
+## 📫 Get in touch
+- ✉️ afnansharifs@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/afnan-sharif  
+- Phone: +92 322 9790900
+
+---
+
+## ⚡ Fun / Extra
+- ⚙️ I enjoy turning research ideas into production features.  
+- 🎧 Always experimenting with voice agents & multilingual TTS.  
+- 🗺️ Geospatial data + GenAI is my jam.
+
+---
+
+## 🔧 How to enable the visuals (quick guide)
+1. Create a repo named `REPLACE_WITH_GITHUB_USERNAME` (exact match).  
+2. Paste this `README.md` into that repo’s `README.md`.  
+3. Replace `REPLACE_WITH_GITHUB_USERNAME` with your GitHub username in the image URLs to enable stats/trophies/visitor badges.  
+4. (Optional) Add these projects as real repos and update the project links in this README to point to them.  
+5. Commit & push — your profile will show the README as your GitHub profile page.
+
+---
+
+<p align="center">Made with ❤️ by Afnan — **LLMs · RAG · Vector Search · Production AI**</p>
