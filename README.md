@@ -2,8 +2,10 @@
 <div align="center">
   <b><div align="center">May the &#70; &#61; <em>m</em> &#183; &part;&#651; &#8725; &part;&#648; , be with you </div></b>
 <div style="display: flex; justify-content: space-between;">
-  <img src="./transformed.png" width="48%" alt="Left Image">
-  <img src="./erasebg-transformed.png" width="48%" alt="Right Image">
+  <!-- <img src="./tree.jpg" width="48%" alt="Left Image">
+  <img src="./erasebg-transformed.png" width="48%" alt="Right Image"> -->
+  <img src="face.png" alt="cover" width="100%" height="100%" align="left" />
+
 
 </div>
 
@@ -12,100 +14,132 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px"></img> </h1>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=855&height=80&lines=Hi!+%F0%9F%91%8B;I+am+Arnav.+Thank+You+for+taking+the+time+to+view+my+GitHub+Profile+%F0%9F%98%84+)](https://git.io/typing-svg)
-
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-What’s up, I’m Arnav. I’m a researcher living in Kolkata. 
-I am a <u>Machine Learning Practitioner</u> and a <u>Quantum Computing Enthusiast</u>. 
-I am a fan of `Linux` and `Open Source Softwares`.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=I+am+an+AI+%26+ML+Engineer+specializing+in+Generative+AI,+LLMs;Applied+Machine+Learning+and+Computer+Vision.)](https://git.io/typing-svg)
 
 
 
-How to reach me: <a href='mailto:arnav.das88@gmail.com'>arnav.das88@gmail.com</a>
+<img width="55%" align="right" alt="Github" src="./front.svg" style="margin-right: 40px;margin-top: 40px;" />
 
-Also, my <a href="https://about.me/arnav-das/">about.me</a> handle is <a href="https://about.me/arnav-das/">arnav-das</a>.
+
+
+
+<div align="center" style="font-family: 'Fira Code', monospace; padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: white; box-shadow: 0 0 15px rgba(0,0,0,0.3);">
+
+  <h2 style="background: linear-gradient(90deg, #00c6ff, #0072ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradientMove 3s infinite alternate; font-size: 28px;">
+    🚀 AI & ML Engineer | Generative AI | LLMs | Applied Machine Learning
+  </h2>
+
+  <p style="font-size: 17px; line-height: 1.7; text-align: justify; max-width: 900px; margin: auto;">
+    I am an <b>AI & ML Engineer</b> specializing in <b>Generative AI</b>, <b>LLMs</b>, and <b>Applied Machine Learning</b>, 
+    with hands-on experience in building <b>scalable, production-ready AI systems</b>.  
+    I have <b>designed and deployed intelligent platforms</b>, <b>RAG-based assistants</b>, 
+    <b>geospatial AI tools</b>, and <b>voice-driven agents</b> for industries like 
+    <b>healthcare</b>, <b>compliance</b>, and <b>urban planning</b>.  
+    My expertise spans <b>LLM orchestration</b>, <b>vector search</b>, <b>prompt engineering</b>, 
+    and <b>full-stack AI integration</b>.  
+    I’m passionate about transforming <b>complex ideas</b> into <b>reliable, real-world AI solutions</b> 
+    that deliver <b>measurable impact</b>.
+  </p>
+
+  <style>
+    @keyframes gradientMove {
+      0% { background-position: 0% 50%; }
+      100% { background-position: 100% 50%; }
+    }
+  </style>
+
+</div>
+
+
+
+
+
+How to reach me: <a href='mailto:afnansharifs@gmail.com'>afnansharifs@gmail.com</a>
+
 
 <br>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="100px"> </h2>
 
-  <a href="https://wa.me/9775665177?text=Hello%20Arnav">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/arnavdas88">
+
+  <a href="https://www.linkedin.com/in/afnan-sharif/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/arnavdas88">
+  <a href="https://github.com/AfnanSharif">
     <img src="https://img.shields.io/badge/github-%23222222.svg?&style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
 <!--   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   -->
   <a href="https://twitter.com/arnavdas88/">
     <img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://www.buymeacoffee.com/arnavdas88" target="_blank" align="center">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30px" >
-  </a>
 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="32px"> </h2>
 
-[![Linux](https://img.shields.io/badge/linux-%23239120.svg?&style=flat-square&logo=linux&logoColor=white)]()
+<h2 align="left"> Skills 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="32px">
+</h2>
 
-[![C Sharp](https://img.shields.io/badge/c%20sharp%20-%23306998.svg?&style=flat-square&logo=c%20sharp&logoColor=white)]()
-[![Python](https://img.shields.io/badge/python-%23306998.svg?&style=flat-square&logo=python&logoColor=white)]()
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
 
-[![Django](https://img.shields.io/badge/django%20-%23239120.svg?&style=flat-square&logo=django&logoColor=white)]()
-[![Flask](https://img.shields.io/badge/flask%20-%23239120.svg?&style=flat-square&logo=flask&logoColor=white)]()
-[![REST](https://img.shields.io/badge/json%20REST-%23239120.svg?&style=flat-square&logo=json&logoColor=white)]()
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-%23306998.svg?&style=for-the-badge&logo=python&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/SQL-%230074C1.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="28">
 
-<!-- 
-[![html5](https://img.shields.io/badge/html-%23999999.svg?&style=flat-square&logo=html5&logoColor=#F06529)]()
-[![Javascript](https://img.shields.io/badge/javascript-%23999999.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E&labelColor=#555555)]()
-[![CSS3](https://img.shields.io/badge/css-%23999999.svg?&style=flat-square&logo=css3&logoColor=%232965F1)]() 
--->
+  <!-- LLMs & AI Frameworks -->
+  <img src="https://img.shields.io/badge/LangChain-%23007396.svg?&style=for-the-badge&logo=chainlink&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/LlamaIndex-%236546A3.svg?&style=for-the-badge&logo=llama&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/OpenAI%20API-%23000000.svg?&style=for-the-badge&logo=openai&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?&style=for-the-badge&logo=huggingface&logoColor=black" height="28">
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-%234B0082.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Vector%20DBs%20(Qdrant%2C%20Pinecone)-%230A0A0A.svg?&style=for-the-badge&logo=databricks&logoColor=white" height="28">
 
-[![Tensorflow](https://img.shields.io/badge/Tensorflow-%23239120.svg?&style=flat-square&logo=tensorflow&logoColor=white)]()
-[![Keras](https://img.shields.io/badge/keras-%23239120.svg?&style=flat-square&logo=keras&logoColor=white)]()
-[![PyTorch](https://img.shields.io/badge/pytorch-%23239120.svg?&style=flat-square&logo=pytorch&logoColor=white)]()
+  <!-- ML, NLP & CV -->
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/YOLOv8/11-%23000000.svg?&style=for-the-badge&logo=yolo&logoColor=white" height="28">
 
-[![Docker](https://img.shields.io/badge/docker-%23000000.svg?&style=flat-square&logo=docker&logoColor=white)]()
-[![NGINX](https://img.shields.io/badge/nginx-%23000000.svg?&style=flat-square&logo=nginx&logoColor=white&labelColor=black)]()
-[![AWS](https://img.shields.io/badge/aws-%23000000.svg?&style=flat-square&logo=amazon&logoColor=white&labelColor=black)]()
-[![DigitaOcean](https://img.shields.io/badge/digital%20ocean-%23000000.svg?&style=flat-square&logo=digitalocean&logoColor=white&labelColor=black)]()
+  <!-- Deployment & DevOps -->
+  <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Docker-%230249E6.svg?&style=for-the-badge&logo=docker&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/CI/CD-%234285F4.svg?&style=for-the-badge&logo=githubactions&logoColor=white" height="28">
+
+  <!-- Databases & Cloud -->
+  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/DigitalOcean-%230080FF.svg?&style=for-the-badge&logo=digitalocean&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Azure%20Form%20Recognizer-%230078D4.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white" height="28">
+
+  <!-- Voice & Chat AI -->
+  <img src="https://img.shields.io/badge/GPT--4o-%23000000.svg?&style=for-the-badge&logo=openai&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/ElevenLabs-%23FF6F00.svg?&style=for-the-badge&logo=elevenlabs&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Whisper-%23000000.svg?&style=for-the-badge&logo=openai&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/InsightFace-%23323330.svg?&style=for-the-badge&logo=facepunch&logoColor=white" height="28">
+
+</div>
 
 
-### <img src="https://avatars2.githubusercontent.com/u/38852529?s=460&u=f53c690b4a34afc76ef91f7df13afde73a438927&v=4" class="avatar avatar-user width-full border bg-white" style="border-radius: 50%;" width="50"> A little more about me...  
 
-```javascript
-const arnav = {
-  fullname: "Arnav Das",
-  mail: [ "arnav.das88@gmail.com", "arnav.das88@outlook.com" ],
-  languages: [ Python, C#, C++, JavaScript, HTML, CSS ],
-  neuralnetwork: [ Tensorflow, Keras, PyTorch, Caffe, Mxnet, Sonnet, Theano ],
-  web: [ Django, Flask, Bootstrap, jQuery, REST API ],
-  quantum: [ Qiskit ],
-  os: [ Debian, macOS ],
-  bigdata: [ OpenSearch, Elastic ],
-  cloud: [ Docker, AWS, DigitalOcean, Heroku ],
-  topic: [ "Machine Learning", "Cyber Security", "Quantum Computing" ],
-  techCommunities: [ 
-          "SillyCon", 
-          "Qiskit Translation", 
-          "QWorld", 
-          "QIndia", 
-          "বাংলায় কোয়ান্টাম কম্পিউটিং (Banglai Quantum Computing)" 
-  ],
-  experience: {
-                  intern: "TeamCognito",
-                  techbizzAssociate: "TeamCognito",
-                  machineLearningLead: "TeamCognito",
-                  researchLead: "Zeron",
-                  researchIntern: "QResearch",
-               },
-}
+
+### <img src="./afz.png" class="avatar avatar-user width-full border bg-white" style="border-radius: 50%;" width="50"> A little more about me...  
+
+```python
+const afnan = {
+  name: "Afnan Sharif",
+  title: "AI & ML Engineer",
+  skills: ["Generative AI", "LLMs", "RAG", "Computer Vision", "Applied ML"],
+  stack: ["Python", "FastAPI", "LangChain", "PyTorch", "TensorFlow", "Docker", "DigitalOcean"],
+  projects: ["IntelliScan", "GeoQuery AI", "UrbanSDK"],
+  quote: "Turning complex ideas into real-world AI solutions 🚀",
+};
+
+console.log(`👋 I'm ${afnan.name}, a ${afnan.title} passionate about ${afnan.skills.join(", ")}.`);
+
 ```
 
   <picture>
