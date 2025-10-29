@@ -148,41 +148,60 @@ console.log(`👋 I'm ${afnan.name}, a ${afnan.title} passionate about ${afnan.s
   <img alt="github-snake" src="https://raw.githubusercontent.com/arnavdas88/arnavdas88/output/github-contribution-grid-snake.svg" />
 </picture>
 
-  <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' height='32px'> </h2>
+<h2 align="center">🚀 My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' height='32px'> </h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arnavdas88&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=9C2C2C&background=DD272700&fire=FFFFFF)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=arnavdas88&theme=onestar&column=3&rank=SECRET,S,SS,SSS,A,AA,AAA,B&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-![Metrics](https://metrics.lecoq.io/arnavdas88?template=classic&isocalendar=1&languages=1&introduction=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FKolkata)
-
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SciSharp&repo=TensorFlow.NET&theme=nord)](https://github.com/arnavdas88/TensorFlow.NET)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arnavdas88&repo=Neural-Arithmatic-Logic-Unit&theme=nord)](https://github.com/arnavdas88/Neural-Arithmatic-Logic-Unit)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arnavdas88&repo=Assist.Jarvis&theme=nord)](https://github.com/arnavdas88/Assist.Jarvis)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arnavdas88&repo=QuGlassyIsing&theme=nord)](https://github.com/arnavdas88/QuGlassyIsing)
-
-  [![Here's my stats](https://github-readme-stats.vercel.app/api?username=arnavdas88&show_icons=true&line_height=33&hide=true&count_private=true&theme=nord)](https://github.com/arnavdas88)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavdas88&count_private=true&hide=Jupyter%20Notebook&theme=nord)](https://github.com/arnavdas88/)
-
-
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' height='32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   
+  <!-- 🔥 GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AfnanSharif&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF6F00" height="180px"/>
 
-<!--
-**arnavdas88/arnavdas88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- 📊 Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AfnanSharif&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180px"/>
 
-Here are some ideas to get you started:
+  <!-- 🧠 Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfnanSharif&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180px"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+<!-- 🏆 Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AfnanSharif&theme=onestar&no-bg=true&margin-w=15&margin-h=15&column=3" />
+</div>
+
+<br>
+
+<!-- 🧩 Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AfnanSharif&theme=react-dark&hide_border=true" width="95%" />
+</div>
+
+<br>
+
+<!-- 📂 Pinned Projects -->
+<h3 align="center">📁 Featured Projects</h3>
+<p align="center">
+  <a href="https://github.com/AfnanSharif/IntelliScan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AfnanSharif&repo=IntelliScan&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/AfnanSharif/GeoQuery-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AfnanSharif&repo=GeoQuery-AI&theme=tokyonight" />
+  </a>
+</p>
+
+<!-- 🕓 Recent Activity (auto-updating via GitHub Actions) -->
+<h3 align="center">⚡ Recent GitHub Activity</h3>
+<p align="center">
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+</p>
+
+<br>
+
+<!-- 🐍 Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AfnanSharif/AfnanSharif/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AfnanSharif/AfnanSharif/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AfnanSharif/AfnanSharif/output/github-contribution-grid-snake.svg" />
+</picture>
