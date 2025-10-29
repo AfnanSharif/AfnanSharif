@@ -1,7 +1,12 @@
 
 <div align="center">
   <b><div align="center">May the &#70; &#61; <em>m</em> &#183; &part;&#651; &#8725; &part;&#648; , be with you </div></b>
-<img width="100%" height = "100%" src="https://cdn.pixabay.com/photo/2017/10/10/15/31/spaceship-2837606_960_720.png" alt="cover" aligh="center" />
+<div style="display: flex; justify-content: space-between;">
+  <img src="./transformed.png" width="48%" alt="Left Image">
+  <img src="./erasebg-transformed.png" width="48%" alt="Right Image">
+
+</div>
+
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px"></img> </h1>
