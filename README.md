@@ -4,7 +4,7 @@
 <div style="display: flex; justify-content: space-between;">
   <!-- <img src="./tree.jpg" width="48%" alt="Left Image">
   <img src="./erasebg-transformed.png" width="48%" alt="Right Image"> -->
-  <img src="face.png" alt="cover" width="100%" height="100%" align="left" />
+  <img src="face.png" alt="cover" width="100%" height="80%" align="left" />
 
 
 </div>
@@ -31,7 +31,7 @@
     🚀 AI & ML Engineer | Generative AI | LLMs | Applied Machine Learning
   </h2>
 
-  <p style="font-size: 17px; line-height: 1.7; text-align: justify; max-width: 900px; margin: auto;">
+  <p style="font-size: 17px; line-height: 1.7; text-align: left; max-width: 900px; margin: auto;">
     I am an <b>AI & ML Engineer</b> specializing in <b>Generative AI</b>, <b>LLMs</b>, and <b>Applied Machine Learning</b>, 
     with hands-on experience in building <b>scalable, production-ready AI systems</b>.  
     I have <b>designed and deployed intelligent platforms</b>, <b>RAG-based assistants</b>, 
@@ -43,12 +43,12 @@
     that deliver <b>measurable impact</b>.
   </p>
 
-  <style>
+  <!-- <style>
     @keyframes gradientMove {
       0% { background-position: 0% 50%; }
       100% { background-position: 100% 50%; }
     }
-  </style>
+  </style> -->
 
 </div>
 
@@ -179,29 +179,6 @@ console.log(`👋 I'm ${afnan.name}, a ${afnan.title} passionate about ${afnan.s
 
 <br>
 
-<!-- 📂 Pinned Projects -->
-<h3 align="center">📁 Featured Projects</h3>
-<p align="center">
-  <a href="https://github.com/AfnanSharif/IntelliScan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AfnanSharif&repo=IntelliScan&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/AfnanSharif/GeoQuery-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AfnanSharif&repo=GeoQuery-AI&theme=tokyonight" />
-  </a>
-</p>
-
-<!-- 🕓 Recent Activity (auto-updating via GitHub Actions) -->
-<h3 align="center">⚡ Recent GitHub Activity</h3>
-<p align="center">
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
-</p>
-
 <br>
 
-<!-- 🐍 Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AfnanSharif/AfnanSharif/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AfnanSharif/AfnanSharif/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AfnanSharif/AfnanSharif/output/github-contribution-grid-snake.svg" />
-</picture>
+
