@@ -4,7 +4,8 @@
 <div style="display: flex; justify-content: space-between;">
   <!-- <img src="./tree.jpg" width="48%" alt="Left Image">
   <img src="./erasebg-transformed.png" width="48%" alt="Right Image"> -->
-  <img src="face.png" alt="cover" width="100%" height="80%" align="left" />
+  <img src="face.png" alt="cover" style="width:100%; height:180px; object-fit:cover;" />
+
 
 
 </div>
@@ -27,11 +28,26 @@
 
 <div align="center" style="font-family: 'Fira Code', monospace; padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: white; box-shadow: 0 0 15px rgba(0,0,0,0.3);">
 
-  <h2 style="background: linear-gradient(90deg, #00c6ff, #0072ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradientMove 3s infinite alternate; font-size: 28px;">
+  <h2 align="left" 
+      style="background: linear-gradient(90deg, #00c6ff, #0072ff); 
+            -webkit-background-clip: text; 
+            -webkit-text-fill-color: transparent; 
+            animation: gradientMove 3s infinite alternate; 
+            font-size: 28px; 
+            margin-left: 40px;
+            margin-bottom: 20px;">
     🚀 AI & ML Engineer | Generative AI | LLMs | Applied Machine Learning
   </h2>
 
-  <p style="font-size: 17px; line-height: 1.7; text-align: left; max-width: 900px; margin: auto;">
+
+  <p style="
+    font-size: 17px;
+    line-height: 1.7;
+    text-align: left;
+    max-width: 900px;
+    margin: 0 0 0 40px; /* pushes text from left edge */
+    padding-right: 20px; /* optional: adds breathing space on right */
+  ">
     I am an <b>AI & ML Engineer</b> specializing in <b>Generative AI</b>, <b>LLMs</b>, and <b>Applied Machine Learning</b>, 
     with hands-on experience in building <b>scalable, production-ready AI systems</b>.  
     I have <b>designed and deployed intelligent platforms</b>, <b>RAG-based assistants</b>, 
@@ -64,16 +80,21 @@ How to reach me: <a href='mailto:afnansharifs@gmail.com'>afnansharifs@gmail.com<
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="100px"> </h2>
 
 
+<div style="display: flex; justify-content: left; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.linkedin.com/in/afnan-sharif/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://github.com/AfnanSharif">
     <img src="https://img.shields.io/badge/github-%23222222.svg?&style=for-the-badge&logo=github&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-<!--   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   -->
+  </a>
   <a href="https://twitter.com/arnavdas88/">
     <img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+  </a>
+  <a href="mailto:afnansharifs@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+  </a>
+</div>
+
 
 
 
