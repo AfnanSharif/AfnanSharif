@@ -1,14 +1,7 @@
 
 <div align="center">
   <b><div align="center">May the &#70; &#61; <em>m</em> &#183; &part;&#651; &#8725; &part;&#648; , be with you </div></b>
-<div style="display: flex; justify-content: space-between;">
-  <!-- <img src="./tree.jpg" width="48%" alt="Left Image">
-  <img src="./erasebg-transformed.png" width="48%" alt="Right Image"> -->
-  <img src="face.png" alt="cover" style="width:100%; height:180px; object-fit:cover;" />
-
-
-
-</div>
+<div style="display: flex; justify-content: space-between;"> <!-- <img src="./tree.jpg" width="48%" alt="Left Image"> <img src="./erasebg-transformed.png" width="48%" alt="Right Image"> --> <img src="face.png" alt="cover" width="100%" height="80%" align="left" /> </div>
 
 </div>
 
@@ -68,14 +61,6 @@
 
 </div>
 
-
-
-
-
-How to reach me: <a href='mailto:afnansharifs@gmail.com'>afnansharifs@gmail.com</a>
-
-
-<br>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="100px"> </h2>
 
