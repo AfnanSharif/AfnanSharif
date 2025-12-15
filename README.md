@@ -140,7 +140,7 @@ const afnan = {
   title: "AI & ML Engineer",
   skills: ["Generative AI", "LLMs", "RAG", "Computer Vision", "Applied ML"],
   stack: ["Python", "FastAPI", "LangChain", "PyTorch", "TensorFlow", "Docker", "DigitalOcean"],
-  projects: ["IntelliScan", "GeoQuery AI", "UrbanSDK"],
+  projects: ["IntelliScan", "GeoQuery AI"],
   quote: "Turning complex ideas into real-world AI solutions 🚀",
 };
 
