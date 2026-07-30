@@ -1,65 +1,28 @@
 
 <div align="center">
-  <b><div align="center">May the &#70; &#61; <em>m</em> &#183; &part;&#651; &#8725; &part;&#648; , be with you </div></b>
-<div style="display: flex; justify-content: space-between;"> <!-- <img src="./tree.jpg" width="48%" alt="Left Image"> <img src="./erasebg-transformed.png" width="48%" alt="Right Image"> --> <img src="face.png" alt="cover" width="100%" height="80%" align="left" /> </div>
-
+  <b>May the &#70; &#61; <em>m</em> &#183; &part;&#651; &#8725; &part;&#648; , be with you </b>
 </div>
-
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px"></img> </h1>
-
 
 <h2> About Me </h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=I+am+an+AI+%26+ML+Engineer+specializing+in+Generative+AI,+LLMs;Applied+Machine+Learning+and+Computer+Vision.)](https://git.io/typing-svg)
+<table width="100%">
+<tr>
+<td width="280" align="center" valign="middle">
+<img src="./afz.png" width="260" style="border-radius:50%;" alt="Afnan Sharif"/>
+</td>
+<td valign="middle">
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=38&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&height=70&lines=Hello+Fellow+%3C+Developers%2F+%3E!+%F0%9F%91%8B" alt="Hello Fellow Developers"/>
+</h1>
 
+> I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **Applied Machine Learning**, with hands-on experience in building **scalable, production-ready AI systems**. I have designed and deployed **intelligent platforms**, **RAG-based assistants**, **geospatial AI tools**, and **voice-driven agents** for **healthcare, compliance, and urban planning**.
+>
+> My expertise spans **LLM orchestration**, **vector search**, **prompt engineering**, and **full-stack AI integration**. I'm passionate about transforming **complex ideas** into **reliable, real-world AI solutions** that deliver **measurable impact**.
 
-<img width="55%" align="right" alt="Github" src="./front.svg" style="margin-right: 40px;margin-top: 40px;" />
-
-
-
-
-<div align="center" style="font-family: 'Fira Code', monospace; padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: white; box-shadow: 0 0 15px rgba(0,0,0,0.3);">
-
-  <h2 align="left" 
-      style="background: linear-gradient(90deg, #00c6ff, #0072ff); 
-            -webkit-background-clip: text; 
-            -webkit-text-fill-color: transparent; 
-            animation: gradientMove 3s infinite alternate; 
-            font-size: 28px; 
-            margin-left: 40px;
-            margin-bottom: 20px;">
-    🚀 AI & ML Engineer | Generative AI | LLMs | Applied Machine Learning
-  </h2>
-
-
-  <p style="
-    font-size: 17px;
-    line-height: 1.7;
-    text-align: left;
-    max-width: 900px;
-    margin: 0 0 0 40px; /* pushes text from left edge */
-    padding-right: 20px; /* optional: adds breathing space on right */
-  ">
-    I am an <b>AI & ML Engineer</b> specializing in <b>Generative AI</b>, <b>LLMs</b>, and <b>Applied Machine Learning</b>, 
-    with hands-on experience in building <b>scalable, production-ready AI systems</b>.  
-    I have <b>designed and deployed intelligent platforms</b>, <b>RAG-based assistants</b>, 
-    <b>geospatial AI tools</b>, and <b>voice-driven agents</b> for industries like 
-    <b>healthcare</b>, <b>compliance</b>, and <b>urban planning</b>.  
-    My expertise spans <b>LLM orchestration</b>, <b>vector search</b>, <b>prompt engineering</b>, 
-    and <b>full-stack AI integration</b>.  
-    I’m passionate about transforming <b>complex ideas</b> into <b>reliable, real-world AI solutions</b> 
-    that deliver <b>measurable impact</b>.
-  </p>
-
-  <!-- <style>
-    @keyframes gradientMove {
-      0% { background-position: 0% 50%; }
-      100% { background-position: 100% 50%; }
-    }
-  </style> -->
-
-</div>
+</td>
+</tr>
+</table>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="100px"> </h2>
