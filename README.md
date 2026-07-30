@@ -118,7 +118,7 @@ console.log(`👋 I'm ${afnan.name}, a ${afnan.title}.`);
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.amazon.com/dp/1098107969">
-<img src="https://img.shields.io/badge/Designing%20ML%20Systems-cover%20pending-161b22?style=for-the-badge" width="180" alt="Designing Machine Learning Systems"/>
+<img src="assests/books/designing-machine-learning-systems.jpg" width="180" alt="Designing Machine Learning Systems"/>
 </a>
 
 </p>
