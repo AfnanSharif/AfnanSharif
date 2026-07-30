@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="56" viewBox="0 0 220 56" role="img" aria-label="Gmail">
+  <defs>
+    <linearGradient id="grad-gmail" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EA4335"/>
+      <stop offset="100%" stop-color="#C5221F"/>
+    </linearGradient>
+    <clipPath id="clip-gmail">
+      <rect width="220" height="56" rx="28" ry="28"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip-gmail)">
+    <rect width="220" height="56" fill="url(#grad-gmail)"/>
+    <ellipse cx="110.0" cy="4" rx="92.39999999999999" ry="16" fill="#ffffff" opacity="0.16"/>
+    <rect x="-60" y="0" width="40" height="56" fill="#ffffff" opacity="0.12" transform="skewX(-20)">
+      <animate attributeName="x" from="-60" to="280" dur="3.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="0.75" y="0.75" width="218.5" height="54.5" rx="27.25" ry="27.25" fill="none" stroke="#ffffff" stroke-opacity="0.18" stroke-width="1.5"/>
+  <g transform="translate(22, 15.0)">
+    <path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z" fill="#ffffff" transform="scale(1.08)"/>
+  </g>
+  <text x="58" y="35.0" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#ffffff">Gmail</text>
+</svg>
