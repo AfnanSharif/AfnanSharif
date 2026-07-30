@@ -8,10 +8,11 @@
 </div>
 
 <img src="./front-crop.png" align="right" height="210"/>
+<br>
 
 I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **Applied Machine Learning**, with hands-on experience in building **scalable, production-ready AI systems**. I have designed and deployed **intelligent platforms**, **RAG-based assistants**, **geospatial AI tools**, and **voice-driven agents** for **healthcare, compliance, and urban planning**. My expertise spans **LLM orchestration**, **vector search**, **prompt engineering**, and **full-stack AI integration**. I'm passionate about transforming **complex ideas** into **reliable, real-world AI solutions** that deliver **measurable impact**.
 
-<br clear="left"/>
+<br clear="right"/>
 
 
 <div align="left">
@@ -94,6 +95,50 @@ const afnan = {
 console.log(`👋 I'm ${afnan.name}, a ${afnan.title}.`);
 
 ```
+
+<div align="left">
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&color=FFFFFF&vCenter=true&width=420&height=60&repeat=false&lines=The+Books+Behind+My+AI+Journey" height="50"/><img src="assests/icons/Book.svg" height="50"/>
+
+</div>
+
+<br>
+
+<p align="center">
+
+<a href="https://www.amazon.com/dp/1098125975">
+<img src="assests/books/hands-on-machine-learning.jpg" width="180" alt="Hands-On Machine Learning"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.amazon.com/dp/0262035618">
+<img src="assests/books/deep-learning.jpg" width="180" alt="Deep Learning"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.amazon.com/dp/1098107969">
+<img src="https://img.shields.io/badge/Designing%20ML%20Systems-cover%20pending-161b22?style=for-the-badge" width="180" alt="Designing Machine Learning Systems"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.amazon.com/dp/1633437167">
+<img src="assests/books/build-a-large-language-model.jpg" width="180" alt="Build a Large Language Model"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.amazon.com/dp/1098136799">
+<img src="assests/books/nlp-with-transformers.jpg" width="180" alt="Natural Language Processing with Transformers"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.amazon.com/dp/0134610997">
+<img src="assests/books/artificial-intelligence-a-modern-approach.jpg" width="180" alt="Artificial Intelligence: A Modern Approach"/>
+</a>
+
+</p>
 
 <!-- 
   <picture>
