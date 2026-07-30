@@ -65,8 +65,6 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
   <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&color=FFFFFF&vCenter=true&width=185&height=60&repeat=false&lines=More+About+Me" height="50"/><img src="assests/icons/Technology.svg" height="50"/>
 </div>
 
-<img src="assests/icons/about-me.png" align="right" height="260"/>
-
 ```python
 const afnan = {
   name: "Afnan Sharif",
@@ -97,7 +95,6 @@ console.log(`👋 I'm ${afnan.name}, a ${afnan.title}.`);
 
 ```
 
-<br clear="right"/>
 <!-- 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AfnanSharif/AfnanSharif/output/github-contribution-grid-snake-dark.svg" />
