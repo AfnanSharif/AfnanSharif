@@ -27,7 +27,9 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Connect%20with%20me-0d1117?style=for-the-badge&logoColor=white"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="28"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Connect%20with%20me&fontSize=32&fontColor=ffffff&fontAlignY=55" height="70"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="40"/>
 </div>
 
 <br/>
@@ -44,7 +46,9 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Skills-0d1117?style=for-the-badge&logoColor=white"/>&nbsp;&nbsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="28"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Skills&fontSize=32&fontColor=ffffff&fontAlignY=55" height="70"/>
+  <br/>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="40"/>
 </div>
 
 <br/>
@@ -81,20 +85,23 @@ console.log(`👋 I'm ${afnan.name}, a ${afnan.title} passionate about ${afnan.s
 </picture>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif" height="32"/>
-  <b>🚀 My GitHub Stats</b>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=My%20GitHub%20Stats&fontSize=32&fontColor=ffffff&fontAlignY=55" height="70"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/stats-organization/github-stats-extended/master/docs/appIcon.svg" width="100px" alt="GitHub Stats Extended Logo"/>
 </div>
 
+<br/>
+
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  
+
   <!-- 🔥 GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=AfnanSharif&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF6F00" height="180px"/>
 
-  <!-- 📊 Overall Stats -->
-  <img src="./profile/stats.svg" height="180px"/>
+</div>
 
-  <!-- 🧠 Top Languages -->
-  <img src="./profile/top-langs.svg" height="180px"/>
+<div align="center">
+
+[![Afnan Sharif's GitHub stats](https://github-stats-extended.vercel.app/api?username=AfnanSharif)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
