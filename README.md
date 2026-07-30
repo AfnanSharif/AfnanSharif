@@ -15,7 +15,7 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&color=FFFFFF&vCenter=true&width=185&height=60&repeat=false&lines=Connect+with+me" height="50"/><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="50"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&color=FFFFFF&vCenter=true&width=185&height=60&repeat=false&lines=Connect+With+Me" height="50"/><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="50"/>
 </div>
 
 <br/>
@@ -46,21 +46,45 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 
 
 
-<b>A little more about me...</b>
+<!-- <b>A little more about me...</b> -->
+
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&color=FFFFFF&vCenter=true&width=185&height=60&repeat=false&lines=More+About+Me" height="50"/><img src="assests/icons/Technology.svg" height="50"/>
+</div>
+
+<img src="assests/icons/about-me.png" align="right" height="260"/>
 
 ```python
 const afnan = {
   name: "Afnan Sharif",
   title: "AI & ML Engineer",
-  skills: ["Generative AI", "LLMs", "RAG", "Computer Vision", "Applied ML"],
-  stack: ["Python", "FastAPI", "LangChain", "PyTorch", "TensorFlow", "Docker", "DigitalOcean"],
-  projects: ["IntelliScan", "GeoQuery AI"],
+
+  languages: ["Python", "SQL"],
+  llm_ai_frameworks: ["LangChain", "LlamaIndex", "OpenAI API", "Hugging Face",
+                       "RAG Pipelines", "Prompt Engineering", "Structured Output Generation",
+                       "Function Calling", "Vector Search (Qdrant, Pinecone)"],
+  ml_nlp: ["Supervised & Unsupervised Learning", "Neural Networks", "Text Classification",
+           "Embedding Generation", "Sentiment Analysis", "Information Extraction"],
+  computer_vision_geospatial: ["YOLOv8/YOLOv11", "Detectron2", "Mask R-CNN", "OpenCV",
+                                "scikit-image", "DeepSeek OCR", "RunPulse OCR",
+                                "Azure Form Recognizer", "OCR & Document Parsing",
+                                "GDAL", "GeoPandas", "Shapely", "Rasterio", "QGIS"],
+  backend_web: ["FastAPI", "Flask", "NestJS", "REST API Development", "Web Scraping", "Playwright"],
+  deployment_devops: ["Docker", "Git", "GitHub", "CI/CD", "Linux Server Administration", "Nginx", "Systemd"],
+  data_processing_storage: ["Pandas", "NumPy", "PostgreSQL (pgvector)", "MongoDB",
+                             "SQLite", "Redis", "Elasticsearch"],
+  voice_chat_interfaces: ["GPT-4o", "ElevenLabs", "OpenAI Whisper", "InsightFace",
+                           "Biometric Verification", "AI-Powered Voice Agents"],
+  frameworks_libraries: ["TensorFlow", "PyTorch", "Scikit-learn"],
+
   quote: "Turning complex ideas into real-world AI solutions 🚀",
 };
 
-console.log(`👋 I'm ${afnan.name}, a ${afnan.title} passionate about ${afnan.skills.join(", ")}.`);
+console.log(`👋 I'm ${afnan.name}, a ${afnan.title}.`);
 
 ```
+
+<br clear="right"/>
 <!-- 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AfnanSharif/AfnanSharif/output/github-contribution-grid-snake-dark.svg" />
