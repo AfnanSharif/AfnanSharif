@@ -96,6 +96,7 @@ console.log(`👋 I'm ${afnan.name}, a ${afnan.title} passionate about ${afnan.s
 <div align="center">
 
 <a href="https://github.com/AfnanSharif"><img src="https://github-stats-extended.vercel.app/api?username=AfnanSharif&theme=github_dark" alt="Afnan Sharif's GitHub stats"/></a>
+<a href="https://github.com/AfnanSharif"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AfnanSharif&repo=GraphRAG&theme=github_dark" alt="Afnan Sharif's GraphRAG repo"/></a>
 
 </div>
 
