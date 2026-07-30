@@ -7,22 +7,20 @@
 
 </div>
 
-<img src="./face.png" align="left" height="190" alt="AI"/>
+<img src="./face-crop.png" align="left" height="210" alt="AI"/>
 
-I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **Applied Machine Learning**, with hands-on experience in building **scalable, production-ready AI systems**. I have designed and deployed **intelligent platforms**, **RAG-based assistants**, **geospatial AI tools**, and **voice-driven agents** for **healthcare, compliance, and urban planning**.
+I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **Applied Machine Learning**, with hands-on experience in building **scalable, production-ready AI systems**. I have designed and deployed **intelligent platforms**, **RAG-based assistants**, **geospatial AI tools**, and **voice-driven agents** for **healthcare, compliance, and urban planning**. My expertise spans **LLM orchestration**, **vector search**, **prompt engineering**, and **full-stack AI integration**. I'm passionate about transforming **complex ideas** into **reliable, real-world AI solutions** that deliver **measurable impact**.
 
 <br clear="left"/>
-
-My expertise spans **LLM orchestration**, **vector search**, **prompt engineering**, and **full-stack AI integration**. I'm passionate about transforming **complex ideas** into **reliable, real-world AI solutions** that deliver **measurable impact**.
 
 
 <h2> Connect with me </h2>
 
-<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" align="right" height="56px"/>
+<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" align="right"/>
 
-<a href="https://www.linkedin.com/in/afnan-sharif/"><img src="./buttons/linkedin-button.svg" height="56"/></a>
-<a href="https://github.com/AfnanSharif"><img src="./buttons/github-button.svg" height="56"/></a>
-<a href="mailto:afnansharifs@gmail.com"><img src="./buttons/gmail-button.svg" height="56"/></a>
+<a href="https://www.linkedin.com/in/afnan-sharif/"><img src="./buttons/linkedin-button.svg" height="40"/></a>
+<a href="https://github.com/AfnanSharif"><img src="./buttons/github-button.svg" height="40"/></a>
+<a href="mailto:afnansharifs@gmail.com"><img src="./buttons/gmail-button.svg" height="40"/></a>
 
 <br clear="right"/>
 
