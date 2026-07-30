@@ -177,10 +177,10 @@ console.log(`👋 I'm ${afnan.name}, a ${afnan.title} passionate about ${afnan.s
   <img src="https://streak-stats.demolab.com?user=AfnanSharif&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF6F00" height="180px"/>
 
   <!-- 📊 Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AfnanSharif&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="./profile/stats.svg" height="180px"/>
 
   <!-- 🧠 Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfnanSharif&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="./profile/top-langs.svg" height="180px"/>
 
 </div>
 
