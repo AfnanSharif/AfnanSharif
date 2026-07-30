@@ -46,6 +46,19 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 
 
 
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&color=FFFFFF&vCenter=true&width=110&height=60&repeat=false&lines=Projects" height="50"/>
+</div>
+
+- **[GraphRAG](https://github.com/AfnanSharif/GraphRAG)** — Python · Retrieval-augmented generation over knowledge graphs.
+- **[GenerativeAI-LLM](https://github.com/AfnanSharif/GenerativeAI-LLM)** — Python · Generative AI / LLM experimentation and pipelines.
+- **[AeroDetect](https://github.com/AfnanSharif/AeroDetect)** — Python · Computer-vision detection project.
+- **[PyTorchAutoencoders](https://github.com/AfnanSharif/PyTorchAutoencoders)** — Python · Autoencoder architectures implemented in PyTorch.
+- **[CuraMind](https://github.com/AfnanSharif/CuraMind)** — Jupyter Notebook · Healthcare-focused AI/ML exploration.
+- **[LeafSense](https://github.com/AfnanSharif/LeafSense)** — Python · Computer-vision project for plant/leaf detection.
+
+<br/>
+
 <!-- <b>A little more about me...</b> -->
 
 <div align="left">
