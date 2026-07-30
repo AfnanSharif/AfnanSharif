@@ -1,20 +1,18 @@
 
 <div align="center">
-  <b>May the &#70; &#61; <em>m</em> &#183; &part;&#651; &#8725; &part;&#648; , be with you </b>
-</div>
 
-<h2> About Me </h2>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=38&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&height=70&lines=Hello+Fellow+%3C+Developers%2F+%3E!+%F0%9F%91%8B" alt="Hello Fellow Developers"/>
+</h1>
+
+</div>
 
 <table width="100%">
 <tr>
 <td width="280" align="center" valign="middle">
-<img src="./afz.png" width="260" style="border-radius:50%;" alt="Afnan Sharif"/>
+<img src="./face.png" width="260" alt="AI"/>
 </td>
 <td valign="middle">
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=38&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&height=70&lines=Hello+Fellow+%3C+Developers%2F+%3E!+%F0%9F%91%8B" alt="Hello Fellow Developers"/>
-</h1>
 
 > I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **Applied Machine Learning**, with hands-on experience in building **scalable, production-ready AI systems**. I have designed and deployed **intelligent platforms**, **RAG-based assistants**, **geospatial AI tools**, and **voice-driven agents** for **healthcare, compliance, and urban planning**.
 >
