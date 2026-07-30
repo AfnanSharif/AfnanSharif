@@ -51,7 +51,7 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=py,opencv,fastapi,docker,git,github,githubactions,postgresql,mongodb,tensorflow,pytorch,scikitlearn,azure,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,opencv,fastapi,flask,nestjs,docker,git,github,githubactions,linux,nginx,postgresql,mongodb,sqlite,redis,elasticsearch,tensorflow,pytorch,scikitlearn,azure)](https://skillicons.dev)
 
 </div>
 
