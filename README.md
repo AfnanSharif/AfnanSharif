@@ -7,23 +7,11 @@
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="68%" valign="right">
-
-
+<img src="./front-crop.png" align="right" height="210"/>
 
 I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **Applied Machine Learning**, with hands-on experience in building **scalable, production-ready AI systems**. I have designed and deployed **intelligent platforms**, **RAG-based assistants**, **geospatial AI tools**, and **voice-driven agents** for **healthcare, compliance, and urban planning**. My expertise spans **LLM orchestration**, **vector search**, **prompt engineering**, and **full-stack AI integration**. I'm passionate about transforming **complex ideas** into **reliable, real-world AI solutions** that deliver **measurable impact**.
 
-</td>
-
-<td width="32%" align="left">
-
-<img src="./front.svg" width="250"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 
 <div align="center">
@@ -86,22 +74,7 @@ console.log(`👋 I'm ${afnan.name}, a ${afnan.title} passionate about ${afnan.s
 
 <br/>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-  <!-- 🔥 GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=AfnanSharif&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF6F00" height="180px"/>
-
-  <a href="https://github.com/AfnanSharif"><img src="https://github-stats-extended.vercel.app/api?username=AfnanSharif&theme=github_dark" alt="Afnan Sharif's GitHub stats" height="180px"/></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/AfnanSharif"><img src="https://githubcard.com/AfnanSharif.svg?d=zn-g4ZyHKAGJ" alt="Afnan Sharif's GitHub card" width="700"/></a>
-
-</div>
+<!-- TODO: paste the correct githubcard.com/AfnanSharif.svg?d=... link here once you've regenerated it for your own username -->
 
 <br>
 
