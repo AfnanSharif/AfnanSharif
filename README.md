@@ -27,7 +27,7 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Connect%20with%20me-0d1117?style=for-the-badge&logoColor=white" height="56"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="56"/>
+  <img src="https://img.shields.io/badge/Connect%20with%20me-0d1117?style=for-the-badge&logoColor=white" height="80"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="80"/>
 </div>
 
 <br/>
@@ -44,7 +44,7 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Skills-0d1117?style=for-the-badge&logoColor=white" height="42"/>&nbsp;&nbsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="42"/>
+  <img src="https://img.shields.io/badge/Skills-0d1117?style=for-the-badge&logoColor=white" height="80"/>&nbsp;&nbsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="80"/>
 </div>
 
 <br/>
@@ -91,12 +91,15 @@ console.log(`👋 I'm ${afnan.name}, a ${afnan.title} passionate about ${afnan.s
   <!-- 🔥 GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=AfnanSharif&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF6F00" height="180px"/>
 
+  <a href="https://github.com/AfnanSharif"><img src="https://github-stats-extended.vercel.app/api?username=AfnanSharif&theme=github_dark" alt="Afnan Sharif's GitHub stats" height="180px"/></a>
+
 </div>
+
+<br/>
 
 <div align="center">
 
-<a href="https://github.com/AfnanSharif"><img src="https://github-stats-extended.vercel.app/api?username=AfnanSharif&theme=github_dark" alt="Afnan Sharif's GitHub stats"/></a>
-<a href="https://github.com/AfnanSharif"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AfnanSharif&repo=GraphRAG&theme=github_dark" alt="Afnan Sharif's GraphRAG repo"/></a>
+<a href="https://github.com/AfnanSharif"><img src="https://githubcard.com/AfnanSharif.svg?d=zn-g4ZyHKAGJ" alt="Afnan Sharif's GitHub card" width="700"/></a>
 
 </div>
 
