@@ -27,7 +27,7 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Connect%20with%20me-0d1117?style=for-the-badge&logoColor=white" height="42"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="42"/>
+  <img src="https://img.shields.io/badge/Connect%20with%20me-0d1117?style=for-the-badge&logoColor=white" height="56"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="56"/>
 </div>
 
 <br/>
@@ -81,7 +81,7 @@ console.log(`👋 I'm ${afnan.name}, a ${afnan.title} passionate about ${afnan.s
 </picture>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/My%20GitHub%20Stats-0d1117?style=for-the-badge&logoColor=white" height="42"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/stats-organization/github-stats-extended/master/docs/appIcon.svg" width="100px" alt="GitHub Stats Extended Logo"/>
+  <img src="https://raw.githubusercontent.com/stats-organization/github-stats-extended/master/docs/appIcon.svg" width="42px" alt="GitHub Stats Extended Logo"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/My%20GitHub%20Stats-0d1117?style=for-the-badge&logoColor=white" height="42"/>
 </div>
 
 <br/>
@@ -95,7 +95,7 @@ console.log(`👋 I'm ${afnan.name}, a ${afnan.title} passionate about ${afnan.s
 
 <div align="center">
 
-[![Afnan Sharif's GitHub stats](https://github-stats-extended.vercel.app/api?username=AfnanSharif)](https://github.com/stats-organization/github-stats-extended)
+<a href="https://github.com/AfnanSharif"><img src="https://github-stats-extended.vercel.app/api?username=AfnanSharif&theme=github_dark" alt="Afnan Sharif's GitHub stats"/></a>
 
 </div>
 
