@@ -17,7 +17,7 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&color=FFFFFF&vCenter=true&width=185&height=60&repeat=false&lines=Connect+With+Me" height="50"/><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="50"/>
+  <img src="https://img.shields.io/badge/Connect%20With%20Me-0d1117?style=for-the-badge&logoColor=white" height="34"/><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="50"/>
 </div>
 
 <br/>
@@ -34,7 +34,7 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&color=FFFFFF&vCenter=true&width=65&height=60&repeat=false&lines=Skills" height="50"/><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50"/>
+  <img src="https://img.shields.io/badge/Skills-0d1117?style=for-the-badge&logoColor=white" height="34"/><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50"/>
 </div>
 
 <br/>
@@ -64,7 +64,7 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 <!-- <b>A little more about me...</b> -->
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&color=FFFFFF&vCenter=true&width=185&height=60&repeat=false&lines=More+About+Me" height="50"/><img src="assests/icons/Technology.svg" height="50"/>
+  <img src="https://img.shields.io/badge/More%20About%20Me-0d1117?style=for-the-badge&logoColor=white" height="34"/><img src="assests/icons/Technology.svg" height="50"/>
 </div>
 
 ```python
@@ -99,7 +99,7 @@ console.log(`👋 I'm ${afnan.name}, a ${afnan.title}.`);
 
 <div align="left">
 
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&color=FFFFFF&vCenter=true&width=420&height=60&repeat=false&lines=The+Books+Behind+My+AI+Journey" height="50"/><img src="assests/icons/Book.svg" height="50"/>
+  <img src="https://img.shields.io/badge/The%20Books%20Behind%20My%20AI%20Journey-0d1117?style=for-the-badge&logoColor=white" height="34"/><img src="assests/icons/Book.svg" height="50"/>
 
 </div>
 
