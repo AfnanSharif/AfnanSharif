@@ -15,7 +15,7 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&color=FFFFFF&center=true&vCenter=true&width=400&height=60&repeat=false&lines=Connect+with+me" height="60"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="60"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&color=FFFFFF&center=true&vCenter=true&width=400&height=60&repeat=false&lines=Connect+with+me" height="60"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="60"/>
 </div>
 
 <br/>
@@ -74,7 +74,11 @@ console.log(`👋 I'm ${afnan.name}, a ${afnan.title} passionate about ${afnan.s
 
 <br/>
 
-<!-- TODO: paste the correct githubcard.com/AfnanSharif.svg?d=... link here once you've regenerated it for your own username -->
+<div align="center">
+
+<a href="https://github.com/AfnanSharif"><img src="https://githubcard.com/AfnanSharif.svg?d=Qv5TDwmrfaOh" alt="Afnan Sharif's GitHub card" width="100%"/></a>
+
+</div>
 
 <br>
 
