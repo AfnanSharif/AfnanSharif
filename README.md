@@ -7,11 +7,23 @@
 
 </div>
 
-<img src="./face-crop.png" align="left" height="210" alt="AI"/>
+<table width="100%">
+<tr>
+<td width="68%" valign="right">
+
+
 
 I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **Applied Machine Learning**, with hands-on experience in building **scalable, production-ready AI systems**. I have designed and deployed **intelligent platforms**, **RAG-based assistants**, **geospatial AI tools**, and **voice-driven agents** for **healthcare, compliance, and urban planning**. My expertise spans **LLM orchestration**, **vector search**, **prompt engineering**, and **full-stack AI integration**. I'm passionate about transforming **complex ideas** into **reliable, real-world AI solutions** that deliver **measurable impact**.
 
-<br clear="left"/>
+</td>
+
+<td width="32%" align="left">
+
+<img src="./front.svg" width="250"/>
+
+</td>
+</tr>
+</table>
 
 
 <h2> Connect with me </h2>
@@ -31,47 +43,106 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="32px">
 </h2>
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" alt="SQL" />
+</p>
 
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-%23306998.svg?&style=for-the-badge&logo=python&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/SQL-%230074C1.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="28">
+<h3 align="center">LLMs & AI Frameworks</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-6546A3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
+</p>
 
-  <!-- LLMs & AI Frameworks -->
-  <img src="https://img.shields.io/badge/LangChain-%23007396.svg?&style=for-the-badge&logo=chainlink&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/LlamaIndex-%236546A3.svg?&style=for-the-badge&logo=llama&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/OpenAI%20API-%23000000.svg?&style=for-the-badge&logo=openai&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?&style=for-the-badge&logo=huggingface&logoColor=black" height="28">
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-%234B0082.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Vector%20DBs%20(Qdrant%2C%20Pinecone)-%230A0A0A.svg?&style=for-the-badge&logo=databricks&logoColor=white" height="28">
+<h3 align="center">Machine Learning & NLP</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Supervised%20%26%20Unsupervised%20Learning-2E86AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Neural%20Networks-2E86AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Text%20Classification-2E86AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embedding%20Generation-2E86AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sentiment%20Analysis-2E86AB?style=for-the-badge" />
+</p>
 
-  <!-- ML, NLP & CV -->
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/YOLOv8/11-%23000000.svg?&style=for-the-badge&logo=yolo&logoColor=white" height="28">
+<h3 align="center">Computer Vision & Geospatial</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="48" />&nbsp;&nbsp;
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLOv8%2F11-111F68?style=for-the-badge&logo=yolo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Detectron2-1E88E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mask%20R--CNN-0F4C81?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/scikit--image-F7931E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Albumentations-3A1078?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GDAL-0C4A6E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shapely-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rasterio-556B2F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+</p>
 
-  <!-- Deployment & DevOps -->
-  <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Docker-%230249E6.svg?&style=for-the-badge&logo=docker&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/CI/CD-%234285F4.svg?&style=for-the-badge&logo=githubactions&logoColor=white" height="28">
+<h3 align="center">Evaluation & Compliance</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/RAGAS-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TruLens-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DeepEval-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HIPAA--Compliant%20AI%20Workflows-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Secure%20Deployment%20Standards-8A2BE2?style=for-the-badge" />
+</p>
 
-  <!-- Databases & Cloud -->
-  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/DigitalOcean-%230080FF.svg?&style=for-the-badge&logo=digitalocean&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Azure%20Form%20Recognizer-%230078D4.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white" height="28">
+<h3 align="center">Deployment & DevOps</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="CI/CD" width="48" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API%20Development-009688?style=for-the-badge" />
+</p>
 
-  <!-- Voice & Chat AI -->
-  <img src="https://img.shields.io/badge/GPT--4o-%23000000.svg?&style=for-the-badge&logo=openai&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/ElevenLabs-%23FF6F00.svg?&style=for-the-badge&logo=elevenlabs&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Whisper-%23000000.svg?&style=for-the-badge&logo=openai&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/InsightFace-%23323330.svg?&style=for-the-badge&logo=facepunch&logoColor=white" height="28">
+<h3 align="center">Data Processing & Storage</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="48" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL%20(pgvector)-4169E1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure%20Form%20Recognizer-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OCR%20%26%20Document%20Parsing-546E7A?style=for-the-badge" />
+</p>
 
-</div>
+<h3 align="center">Voice & Chat Interfaces</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/GPT--4o-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20Whisper-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/InsightFace-323330?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Biometric%20Verification-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI--Powered%20Voice%20Agents-4B0082?style=for-the-badge" />
+</p>
+
+<h3 align="center">Frameworks & Libraries</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="48" />
+</p>
+
+<h3 align="center">Cloud & Platforms</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="48" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" width="48" />
+</p>
 
 
 
@@ -93,9 +164,9 @@ console.log(`👋 I'm ${afnan.name}, a ${afnan.title} passionate about ${afnan.s
 ```
 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnavdas88/arnavdas88/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnavdas88/arnavdas88/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/arnavdas88/arnavdas88/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AfnanSharif/AfnanSharif/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AfnanSharif/AfnanSharif/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AfnanSharif/AfnanSharif/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <h2 align="center">🚀 My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' height='32px'> </h2>
@@ -103,7 +174,7 @@ console.log(`👋 I'm ${afnan.name}, a ${afnan.title} passionate about ${afnan.s
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   
   <!-- 🔥 GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AfnanSharif&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF6F00" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=AfnanSharif&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF6F00" height="180px"/>
 
   <!-- 📊 Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=AfnanSharif&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180px"/>
@@ -115,9 +186,9 @@ console.log(`👋 I'm ${afnan.name}, a ${afnan.title} passionate about ${afnan.s
 
 <br>
 
-<!-- 🏆 Trophies -->
+<!-- 👾 Contributions Space Shooter Game -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AfnanSharif&theme=onestar&no-bg=true&margin-w=15&margin-h=15&column=3" />
+  <img src="./game.gif" alt="Space shooter contribution graph" width="90%" />
 </div>
 
 <br>
