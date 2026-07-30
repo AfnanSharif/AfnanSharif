@@ -26,31 +26,37 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 </table>
 
 
-<h2> Connect with me </h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32"/>
+  <b>Connect with me</b>
+</div>
 
-<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" align="right"/>
+<div align="center">
 
 <a href="https://www.linkedin.com/in/afnan-sharif/"><img src="./buttons/linkedin-button.svg" height="40"/></a>
 <a href="https://github.com/AfnanSharif"><img src="./buttons/github-button.svg" height="40"/></a>
 <a href="mailto:afnansharifs@gmail.com"><img src="./buttons/gmail-button.svg" height="40"/></a>
 
-<br clear="right"/>
+</div>
 
 
 
 
-<h2 align="left"> Skills 
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="32px">
-</h2>
+<div align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="32"/>
+  <b>Skills</b>
+</div>
 
-### Main Skills
+<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=py,opencv,fastapi,docker,git,github,githubactions,postgresql,mongodb,tensorflow,pytorch,scikitlearn,azure,aws)](https://skillicons.dev)
 
+</div>
 
 
 
-### <img src="./afz.png" class="avatar avatar-user width-full border bg-white" style="border-radius: 50%;" width="50"> A little more about me...  
+
+<b>A little more about me...</b>
 
 ```python
 const afnan = {
@@ -72,7 +78,10 @@ console.log(`👋 I'm ${afnan.name}, a ${afnan.title} passionate about ${afnan.s
   <img alt="github-snake" src="https://raw.githubusercontent.com/AfnanSharif/AfnanSharif/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<h2 align="center">🚀 My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' height='32px'> </h2>
+<div align="center">
+  <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif" height="32"/>
+  <b>🚀 My GitHub Stats</b>
+</div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   
