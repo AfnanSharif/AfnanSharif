@@ -16,23 +16,24 @@ My expertise spans **LLM orchestration**, **vector search**, **prompt engineerin
 <br clear="left"/>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="100px"> </h2>
+<h2> Connect with me </h2>
 
+<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" align="right" height="120px"/>
 
-<div style="display: flex; justify-content: left; flex-wrap: wrap; gap: 10px;">
-  <a href="https://www.linkedin.com/in/afnan-sharif/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/AfnanSharif">
-    <img src="https://img.shields.io/badge/github-%23222222.svg?&style=for-the-badge&logo=github&logoColor=white" />        
-  </a>
-  <a href="https://twitter.com/arnavdas88/">
-    <img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
-  </a>
-  <a href="mailto:afnansharifs@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/afnan-sharif/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1B1F23" />
+</a>
+<a href="https://github.com/AfnanSharif">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1B1F23" />
+</a>
+<a href="mailto:afnansharifs@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1B1F23" />
+</a>
+<a href="tel:+923229790900">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1B1F23" />
+</a>
+
+<br clear="right"/>
 
 
 
