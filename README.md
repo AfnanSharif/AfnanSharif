@@ -27,9 +27,7 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Connect%20with%20me&fontSize=32&fontColor=ffffff&fontAlignY=55" height="70"/>
-  <br/>
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="40"/>
+  <img src="https://img.shields.io/badge/Connect%20with%20me-0d1117?style=for-the-badge&logoColor=white" height="42"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="42"/>
 </div>
 
 <br/>
@@ -46,9 +44,7 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Skills&fontSize=32&fontColor=ffffff&fontAlignY=55" height="70"/>
-  <br/>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="40"/>
+  <img src="https://img.shields.io/badge/Skills-0d1117?style=for-the-badge&logoColor=white" height="42"/>&nbsp;&nbsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="42"/>
 </div>
 
 <br/>
@@ -85,9 +81,7 @@ console.log(`👋 I'm ${afnan.name}, a ${afnan.title} passionate about ${afnan.s
 </picture>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=My%20GitHub%20Stats&fontSize=32&fontColor=ffffff&fontAlignY=55" height="70"/>
-  <br/>
-  <img src="https://raw.githubusercontent.com/stats-organization/github-stats-extended/master/docs/appIcon.svg" width="100px" alt="GitHub Stats Extended Logo"/>
+  <img src="https://img.shields.io/badge/My%20GitHub%20Stats-0d1117?style=for-the-badge&logoColor=white" height="42"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/stats-organization/github-stats-extended/master/docs/appIcon.svg" width="100px" alt="GitHub Stats Extended Logo"/>
 </div>
 
 <br/>
