@@ -27,7 +27,7 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Connect%20with%20me-0d1117?style=for-the-badge&logoColor=white" height="80"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="80"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&color=FFFFFF&center=true&vCenter=true&width=400&height=60&repeat=false&lines=Connect+with+me" height="60"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="60"/>
 </div>
 
 <br/>
@@ -44,7 +44,7 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Skills-0d1117?style=for-the-badge&logoColor=white" height="80"/>&nbsp;&nbsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="80"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&color=FFFFFF&center=true&vCenter=true&width=200&height=60&repeat=false&lines=Skills" height="60"/>&nbsp;&nbsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="60"/>
 </div>
 
 <br/>
@@ -81,7 +81,7 @@ console.log(`👋 I'm ${afnan.name}, a ${afnan.title} passionate about ${afnan.s
 </picture>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/stats-organization/github-stats-extended/master/docs/appIcon.svg" width="42px" alt="GitHub Stats Extended Logo"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/My%20GitHub%20Stats-0d1117?style=for-the-badge&logoColor=white" height="42"/>
+  <img src="https://raw.githubusercontent.com/stats-organization/github-stats-extended/master/docs/appIcon.svg" width="60px" alt="GitHub Stats Extended Logo"/>&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&color=FFFFFF&center=true&vCenter=true&width=450&height=60&repeat=false&lines=My+GitHub+Stats" height="60"/>
 </div>
 
 <br/>
