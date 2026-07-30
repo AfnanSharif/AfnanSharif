@@ -15,7 +15,7 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&color=FFFFFF&center=true&vCenter=true&width=400&height=60&repeat=false&lines=Connect+with+me" height="60"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="60"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&color=FFFFFF&center=true&vCenter=true&width=400&height=60&repeat=false&lines=Connect+with+me" height="50"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="50"/>
 </div>
 
 <br/>
@@ -32,7 +32,7 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&color=FFFFFF&center=true&vCenter=true&width=200&height=60&repeat=false&lines=Skills" height="60"/>&nbsp;&nbsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="60"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&color=FFFFFF&center=true&vCenter=true&width=200&height=60&repeat=false&lines=Skills" height="50"/>&nbsp;&nbsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50"/>
 </div>
 
 <br/>
@@ -61,16 +61,22 @@ const afnan = {
 console.log(`👋 I'm ${afnan.name}, a ${afnan.title} passionate about ${afnan.skills.join(", ")}.`);
 
 ```
-
+<!-- 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AfnanSharif/AfnanSharif/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AfnanSharif/AfnanSharif/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/AfnanSharif/AfnanSharif/output/github-contribution-grid-snake.svg" />
-</picture>
+</picture> -->
 
+
+<!-- 👾 Contributions Space Shooter Game -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/stats-organization/github-stats-extended/master/docs/appIcon.svg" width="60px" alt="GitHub Stats Extended Logo"/>&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&color=FFFFFF&center=true&vCenter=true&width=450&height=60&repeat=false&lines=My+GitHub+Stats" height="60"/>
+  <img src="./assests/shoter-graph/AfnanSharif-space-shooter.gif" alt="Space shooter contribution graph" width="100%" />
 </div>
+
+<!-- <div align="center">
+  <img src="https://raw.githubusercontent.com/stats-organization/github-stats-extended/master/docs/appIcon.svg" width="60px" alt="GitHub Stats Extended Logo"/>&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&color=FFFFFF&center=true&vCenter=true&width=450&height=60&repeat=false&lines=My+GitHub+Stats" height="60"/>
+</div> -->
 
 <br/>
 
@@ -82,16 +88,12 @@ console.log(`👋 I'm ${afnan.name}, a ${afnan.title} passionate about ${afnan.s
 
 <br>
 
-<!-- 👾 Contributions Space Shooter Game -->
-<div align="center">
-  <img src="./game.gif" alt="Space shooter contribution graph" width="90%" />
-</div>
 
 <br>
 
 <!-- 🧩 Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AfnanSharif&theme=react-dark&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AfnanSharif&theme=react-dark&hide_border=true" width="100%" />
 </div>
 
 <br>
