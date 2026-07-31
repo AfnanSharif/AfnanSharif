@@ -16,8 +16,10 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 <br clear="right"/>
 
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Connect%20With%20Me-0d1117?style=for-the-badge&logoColor=white" height="34"/><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="50"/>
+<!-- <div align="left">
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&color=FFFFFF&vCenter=true&width=180&height=60&repeat=false&lines=Connect+with+me" height="60"/><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="60"/>
+
 </div>
 
 <br/>
@@ -28,13 +30,15 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 <a href="https://github.com/AfnanSharif"><img src="./buttons/github-button.svg" height="40"/></a>
 <a href="mailto:afnansharifs@gmail.com"><img src="./buttons/gmail-button.svg" height="40"/></a>
 
-</div>
+</div> -->
 
 
 
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Skills-0d1117?style=for-the-badge&logoColor=white" height="34"/><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50"/>
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&color=FFFFFF&vCenter=true&width=70&height=60&repeat=false&lines=Skills" height="60"/><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="60"/>
+
 </div>
 
 <br/>
@@ -48,7 +52,7 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 
 
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&color=FFFFFF&vCenter=true&width=110&height=60&repeat=false&lines=Projects" height="50"/>
 </div>
 
@@ -59,12 +63,14 @@ I am an **AI & ML Engineer** specializing in **Generative AI**, **LLMs**, and **
 - **[CuraMind](https://github.com/AfnanSharif/CuraMind)** — Jupyter Notebook · Healthcare-focused AI/ML exploration.
 - **[LeafSense](https://github.com/AfnanSharif/LeafSense)** — Python · Computer-vision project for plant/leaf detection.
 
-<br/>
+<br/> -->
 
 <!-- <b>A little more about me...</b> -->
 
 <div align="left">
-  <img src="https://img.shields.io/badge/More%20About%20Me-0d1117?style=for-the-badge&logoColor=white" height="34"/><img src="assests/icons/Technology.svg" height="50"/>
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&color=FFFFFF&vCenter=true&width=175&height=60&repeat=false&lines=More+About+Me" height="60"/><img src="./assests/icons/Technology.svg" height="60"/>
+
 </div>
 
 ```python
@@ -99,7 +105,7 @@ console.log(`👋 I'm ${afnan.name}, a ${afnan.title}.`);
 
 <div align="left">
 
-  <img src="https://img.shields.io/badge/The%20Books%20Behind%20My%20AI%20Journey-0d1117?style=for-the-badge&logoColor=white" height="34"/><img src="assests/icons/Book.svg" height="50"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&color=FFFFFF&vCenter=true&width=330&height=60&repeat=false&lines=The+Books+Behind+My+AI+Journey" height="60"/><img src="./assests/icons/Book.svg" height="60"/>
 
 </div>
 
@@ -179,5 +185,21 @@ console.log(`👋 I'm ${afnan.name}, a ${afnan.title}.`);
 <br>
 
 <br>
+
+<div align="left">
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&color=FFFFFF&vCenter=true&width=180&height=60&repeat=false&lines=Connect+with+me" height="60"/><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="60"/>
+
+</div>
+
+
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/afnan-sharif/"><img src="./buttons/linkedin-button.svg" height="40"/></a>
+<a href="https://github.com/AfnanSharif"><img src="./buttons/github-button.svg" height="40"/></a>
+<a href="mailto:afnansharifs@gmail.com"><img src="./buttons/gmail-button.svg" height="40"/></a>
+
+</div>
 
 
